@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.779,=D:\Documents\RAD Studio\Projects\Kursach\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.552,=D:\Documents\RAD Studio\Projects\Kursach\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.233,=D:\Documents\RAD Studio\Projects\Kursach\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.095,D:\Documents\RAD Studio\Projects\Kursach\Unit1.cpp=D:\Documents\RAD Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.758,D:\Documents\RAD Studio\Projects\Kursach\Unit1.cpp=D:\Documents\RAD Studio\Projects\Kursach\Adding.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.332,D:\Documents\RAD Studio\Projects\Kursach\Unit1.cpp=D:\Documents\RAD Studio\Projects\Kursach\Rem.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.770,D:\Documents\RAD Studio\Projects\Kursach\TravelHelper.cbproj=D:\Documents\RAD Studio\Projects\Kursach\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.095,D:\Documents\RAD Studio\Projects\Kursach\Unit1.h=D:\Documents\RAD Studio\Projects\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.553,D:\Documents\RAD Studio\Projects\Kursach\SP.cpp=D:\Documents\RAD Studio\Projects\Kursach\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.035,D:\Documents\RAD Studio\Projects\Kursach\Class.cpp=D:\Documents\RAD Studio\Projects\Kursach\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.093,=D:\Documents\RAD Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.332,D:\Documents\RAD Studio\Projects\Kursach\Unit1.h=D:\Documents\RAD Studio\Projects\Kursach\Rem.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.758,D:\Documents\RAD Studio\Projects\Kursach\Unit1.h=D:\Documents\RAD Studio\Projects\Kursach\Adding.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.758,D:\Documents\RAD Studio\Projects\Kursach\Unit1.dfm=D:\Documents\RAD Studio\Projects\Kursach\Adding.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.719,D:\Documents\RAD Studio\Projects\Kursach\MainForm.cpp=D:\Documents\RAD Studio\Projects\Kursach\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.035,D:\Documents\RAD Studio\Projects\Kursach\Class.h=D:\Documents\RAD Studio\Projects\Kursach\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.553,D:\Documents\RAD Studio\Projects\Kursach\SP.dfm=D:\Documents\RAD Studio\Projects\Kursach\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.332,D:\Documents\RAD Studio\Projects\Kursach\Unit1.dfm=D:\Documents\RAD Studio\Projects\Kursach\Rem.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.095,D:\Documents\RAD Studio\Projects\Kursach\Unit1.dfm=D:\Documents\RAD Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.719,D:\Documents\RAD Studio\Projects\Kursach\MainForm.h=D:\Documents\RAD Studio\Projects\Kursach\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.069,=D:\Documents\RAD Studio\Projects\Project1.res</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.521,=D:\Documents\RAD Studio\Projects\Kursach\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.751,=D:\Documents\RAD Studio\Projects\Kursach\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.719,D:\Documents\RAD Studio\Projects\Kursach\MainForm.dfm=D:\Documents\RAD Studio\Projects\Kursach\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.553,D:\Documents\RAD Studio\Projects\Kursach\SP.h=D:\Documents\RAD Studio\Projects\Kursach\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.478,D:\Documents\RAD Studio\Projects\Kursach\Project1.cbproj=D:\Documents\RAD Studio\Projects\Project1.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
